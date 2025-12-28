@@ -1,0 +1,659 @@
+{
+  "Documentation": {
+    "Description": "",
+    "Submodules": {}
+  },
+  "WordPress overview": {
+    "Description": "Learn about WordPress and its community.",
+    "Submodules": {
+      "Where to start?": " Are you new to WordPress? Learn how to get started now.",
+      "FAQs": " A list of common WordPress questions from the community.",
+      "About WordPress": " Learn more about the WordPress project and its history."
+    }
+  },
+  "Technical guides": {
+    "Description": "Learn how to install WordPress and keep it secure and healthy.",
+    "Submodules": {
+      "Installation": " Need a hand installing WordPress? This section will help you.",
+      "Maintenance": " Keep your site updated and ready with the articles in this section.",
+      "Security": " Everything you need to know to protect your site, from password best practices to privacy."
+    }
+  },
+  "Support guides": {
+    "Description": "Get to know how to publish with WordPress.",
+    "Submodules": {
+      "Dashboard": " Get to know the control center of your site.",
+      "Publishing": " Learn how to create and publish your content.",
+      "Media": " Learn how to manage your media files."
+    }
+  },
+  "Customization": {
+    "Description": "Get the look and feel you want on your site.",
+    "Submodules": {
+      "Appearance": " Learn how to give the look and feel you want to your site.",
+      "Default themes": " Get information on the default themes that ship with WordPress.",
+      "Media Blocks": " Learn about the Audio, Cover, File, Gallery, Image, Media & Text, and the Video blocks.",
+      "Text Blocks": " Learn about the basic text blocks that make up the main content of your website.",
+      "Design Blocks": " Learn about the various layout blocks, including Group, Row, Stack, Buttons, Columns, and more.",
+      "Embed Blocks": " Learn about all the included embed blocks, and how to configure them.",
+      "Widget Blocks": " Learn about Archives, Calendar, and the other blocks that are available to use as widgets.",
+      "Theme Blocks": " Learn about how to apply theme-specific blocks for your block themes and custom templates."
+    }
+  },
+  "Get more help": {
+    "Description": "Support forums",
+    "Submodules": {
+      "About": "",
+      "News": "",
+      "Hosting": "",
+      "Privacy": "",
+      "Showcase": "",
+      "Themes": "",
+      "Plugins": "",
+      "Patterns": "",
+      "Learn": "",
+      "Documentation": "",
+      "Developers": "",
+      "WordPress.tv\u2197": "",
+      "Get Involved": "",
+      "Events": "",
+      "Donate\u2197": "",
+      "Five for the Future": "",
+      "WordPress.com\u2197": "",
+      "Matt\u2197": "",
+      "bbPress\u2197": "",
+      "BuddyPress\u2197": "",
+      "Visit our X (formerly Twitter) account": "",
+      "Visit our Bluesky account": "",
+      "Visit our Mastodon account": "",
+      "Visit our Threads account": "",
+      "Visit our Facebook page": "",
+      "Visit our Instagram account": "",
+      "Visit our LinkedIn account": "",
+      "Visit our TikTok account": "",
+      "Visit our YouTube channel": "",
+      "Visit our Tumblr account": ""
+    }
+  },
+  "FAQs": {
+    "Description": "FAQ I make changes and nothing happens",
+    "Submodules": {
+      "FAQ I make changes and nothing happens": "",
+      "FAQ Installation": "",
+      "FAQ My site was hacked": "",
+      "FAQ Troubleshooting": "",
+      "FAQ Work with WordPress": ""
+    }
+  },
+  "Where to start": {
+    "Description": "First steps with WordPress (Block Editor)",
+    "Submodules": {
+      "First steps with WordPress (Block Editor)": "",
+      "First steps with WordPress (Classic Editor)": "",
+      "Get started with WordPress": "",
+      "Introduction to Blogging": "",
+      "Where to find WordPress help": "",
+      "WordPress Glossary": "",
+      "WordPress Semantics": ""
+    }
+  },
+  "About WordPress": {
+    "Description": "Become a WordPress contributor",
+    "Submodules": {
+      "Become a WordPress contributor": "",
+      "Learn about WordPress origins and version history": "",
+      "Supported Versions": "",
+      "What\u2019s the difference between WordPress.org and WordPress.com?": "",
+      "WordPress Versions": ""
+    }
+  },
+  "Installation": {
+    "Description": "Hosting WordPress",
+    "Submodules": {
+      "Hosting WordPress": "",
+      "Search Engine Optimization": "",
+      "Troubleshoot login issues": "",
+      "Use automated installation": ""
+    }
+  },
+  "Maintenance": {
+    "Description": "Administer your Blog",
+    "Submodules": {
+      "Administer your Blog": "",
+      "Plugin and themes auto-updates": "",
+      "Recovery Mode": "",
+      "Updating WordPress": "",
+      "WordPress Housekeeping": "",
+      "WordPress site maintenance": ""
+    }
+  },
+  "Security": {
+    "Description": "Password Best Practices",
+    "Submodules": {
+      "Password Best Practices": "",
+      "Why should I use HTTPS": "",
+      "WordPress Privacy": ""
+    }
+  },
+  "Dashboard": {
+    "Description": "Administration Screens",
+    "Submodules": {
+      "Administration Screens": "",
+      "Appearance Menus Screen": "",
+      "Appearance Theme File Editor Screen": "",
+      "Appearance Themes Screen": "",
+      "Appearance Widgets Screen (Classic Editor)": "",
+      "Block-based Widgets Editor": "",
+      "Comments screen": "",
+      "Customizer": "",
+      "Dashboard screen": "",
+      "Dashboard Updates screen": "",
+      "Distraction Free mode": "",
+      "Manage WordPress widgets": "",
+      "Media Add New screen": "",
+      "Media Library screen": "",
+      "Pages screen": "",
+      "Plugins Add New screen": "",
+      "Plugins screen": "",
+      "Posts Categories screen": "",
+      "Posts screen": "",
+      "Posts Tags screen": "",
+      "Reset your password": "",
+      "Roles and Capabilities": "",
+      "Settings Discussion screen": "",
+      "Settings General screen": "",
+      "Settings Media screen": "",
+      "Settings Permalinks screen": "",
+      "Settings Privacy screen": "",
+      "Settings Reading screen": "",
+      "Settings Writing screen": "",
+      "Site Health screen": "",
+      "Toolbar": "",
+      "Tools Erase Personal Data screen": "",
+      "Tools Export Personal Data screen": "",
+      "Tools Export screen": "",
+      "Tools Import screen": "",
+      "Tools Network screen": "",
+      "Tools screen": "",
+      "Use keyboard shortcuts (Block Editor)": "",
+      "Use keyboard shortcuts (Classic Editor)": "",
+      "Users Add New screen": "",
+      "Users screen": "",
+      "Users Your Profile screen": "",
+      "Video shortcode": "",
+      "What is Post Type?": "",
+      "WordPress Block Editor": ""
+    }
+  },
+  "Media": {
+    "Description": "Audio Shortcode",
+    "Submodules": {
+      "Audio Shortcode": "",
+      "Edit Media": "",
+      "Image size and quality": "",
+      "Inserting images into posts and pages (Block Editor)": "",
+      "Inserting images into posts and pages (Classic Editor)": "",
+      "The WordPress Gallery (Block Editor)": "",
+      "The WordPress Gallery (Classic Editor)": "",
+      "Use image and file attachments": "",
+      "Use Images": ""
+    }
+  },
+  "Publishing": {
+    "Description": "Comment moderation",
+    "Submodules": {
+      "Comment moderation": "",
+      "Comments in WordPress": "",
+      "Create a search page": "",
+      "Create a static front page": "",
+      "Create pages": "",
+      "Customize date and time format": "",
+      "Customize permalinks": "",
+      "How WordPress processes Post Content": "",
+      "Pages Add New screen": "",
+      "Post Status": "",
+      "Protect posts with password": "",
+      "Revisions": "",
+      "Set blog content visibility (Block Editor)": "",
+      "Set blog content visibility (Classic Editor)": "",
+      "Sticky Posts (Classic Editor)": "",
+      "Taxonomies": "",
+      "Trackbacks and Pingbacks": "",
+      "Understand comment spam": "",
+      "Use character entities": "",
+      "What are Emoji?": "",
+      "What are smilies?": "",
+      "What is an excerpt? (Block Editor)": "",
+      "What is an excerpt? (Classic Editor)": "",
+      "Write code in your posts (Classic Editor)": "",
+      "Write posts (Classic Editor)": ""
+    }
+  },
+  "Appearance": {
+    "Description": "Additional guide to using the Site Editor",
+    "Submodules": {
+      "Additional guide to using the Site Editor": "",
+      "Assign custom fields": "",
+      "Block themes": "",
+      "Comparing Patterns, Template Parts, and Synced Patterns (Reusable Blocks)": "",
+      "Create a Favicon": "",
+      "Introduction to Plugins": "",
+      "Layout Settings overview": "",
+      "Manage Plugins": "",
+      "Position Settings overview": "",
+      "Site Editor": ""
+    }
+  },
+  "Block Editor": {
+    "Description": "Adding a new block",
+    "Submodules": {
+      "Adding a new block": "",
+      "Block Directory": "",
+      "Block Error: Unexpected or Invalid Content": "",
+      "Block Pattern Directory": "",
+      "Block Patterns": "",
+      "Blocks list": "",
+      "Border & Shadow Settings overview": "",
+      "Colors Settings overview": "",
+      "Dimension Settings overview": "",
+      "Embed block": ""
+    }
+  },
+  "Default themes": {
+    "Description": "Twenty Twenty-Five",
+    "Submodules": {
+      "Twenty Twenty-Five": "",
+      "Twenty Twenty-Four": "",
+      "Twenty Twenty-Three": "",
+      "Twenty Twenty-Two": "",
+      "Twenty Twenty-One": "",
+      "Twenty Twenty": "",
+      "Twenty Nineteen": "",
+      "Twenty Seventeen": "",
+      "Twenty Sixteen": "",
+      "Twenty Fifteen": "",
+      "Twenty Twenty-FiveTwenty Twenty-Five changelog": "",
+      "Twenty Twenty-Five changelog": "",
+      "Twenty Twenty-FourTwenty Twenty-Four changelog": "",
+      "Twenty Twenty-Four changelog": "",
+      "Twenty Twenty-ThreeTwenty Twenty-Three Changelog": "",
+      "Twenty Twenty-Three Changelog": "",
+      "Twenty Twenty-TwoTwenty Twenty-Two changelog": "",
+      "Twenty Twenty-Two changelog": "",
+      "Twenty Twenty-OneTwenty Twenty-One changelog": "",
+      "Twenty Twenty-One changelog": "",
+      "Twenty TwentyTwenty Twenty changelog": "",
+      "Twenty Twenty changelog": "",
+      "Twenty NineteenTwenty Nineteen changelog": "",
+      "Twenty Nineteen changelog": "",
+      "Twenty SeventeenTwenty Seventeen changelog": "",
+      "Twenty Seventeen changelog": "",
+      "Twenty SixteenTwenty Sixteen changelog": "",
+      "Twenty Sixteen changelog": "",
+      "Twenty FifteenTwenty Fifteen changelog": "",
+      "Twenty Fifteen changelog": "",
+      "Twenty TwelveTwenty Twelve changelog": "",
+      "Twenty Twelve changelog": "",
+      "Twenty ElevenTwenty Eleven changelog": "",
+      "Twenty Eleven changelog": "",
+      "Twenty TenTwenty Ten changelog": "",
+      "Twenty Ten changelog": ""
+    }
+  },
+  "Design blocks": {
+    "Description": "(Deprecated)Button block",
+    "Submodules": {
+      "(Deprecated)Button block": "",
+      "Accordion block": "",
+      "Buttons block": "",
+      "Columns block": "",
+      "Grid block": "",
+      "Group block": "",
+      "More block": "",
+      "Page Break block": "",
+      "Page Jumps": "",
+      "Row block": ""
+    }
+  },
+  "Embed blocks": {
+    "Description": "Amazon Kindle Embed",
+    "Submodules": {
+      "Amazon Kindle Embed": "",
+      "Animoto Embed": "",
+      "Cloudup Embed": "",
+      "Crowdsignal embed": "",
+      "Dailymotion embed": "",
+      "Embeds": "",
+      "Facebook embed": "",
+      "Flickr embed": "",
+      "Imgur embed": "",
+      "Instagram embed": ""
+    }
+  },
+  "Media blocks": {
+    "Description": "Audio block",
+    "Submodules": {
+      "Audio block": "",
+      "Cover block": "",
+      "File block": "",
+      "Gallery block": "",
+      "Image block": "",
+      "Media & Text block": "",
+      "Video block": ""
+    }
+  },
+  "Site Editor": {
+    "Description": "Command Palette",
+    "Submodules": {
+      "Command Palette": "",
+      "Site Editor navigation": "",
+      "Site Editor Pages": "",
+      "Site Editor Patterns": ""
+    }
+  },
+  "Text blocks": {
+    "Description": "Classic block",
+    "Submodules": {
+      "Classic block": "",
+      "Code block": "",
+      "Details block": "",
+      "Footnotes block": "",
+      "Heading block": "",
+      "List block": "",
+      "Math block": "",
+      "Paragraph block": "",
+      "Preformatted block": "",
+      "Pullquote block": "",
+      "Quote block": "",
+      "Table block": "",
+      "Terms Query block": "",
+      "Time to Read block": "",
+      "Verse block": ""
+    }
+  },
+  "Theme blocks": {
+    "Description": "Archive Title block",
+    "Submodules": {
+      "Archive Title block": "",
+      "Avatar block": "",
+      "Categories block": "",
+      "Comment  Author Name block": "",
+      "Comment Content block": "",
+      "Comment Date block": "",
+      "Comment Edit Link block": "",
+      "Comment Reply Link block": "",
+      "Comment Template block": "",
+      "Comments block": ""
+    }
+  },
+  "Widget blocks": {
+    "Description": "Archives block",
+    "Submodules": {
+      "Archives block": "",
+      "Calendar block": "",
+      "Categories List block": "",
+      "Custom HTML": "",
+      "Latest Comments block": "",
+      "Latest Posts block": "",
+      "Page List block": "",
+      "RSS block": "",
+      "Search block": "",
+      "Shortcode block": ""
+    }
+  },
+  "429 Too Many Requests": {
+    "Description": "",
+    "Submodules": {}
+  },
+  "FAQ Work with WordPress": {
+    "Description": "",
+    "Submodules": {}
+  },
+  "In this article": {
+    "Description": "\u2191Back to top",
+    "Submodules": {
+      "AdministrationCan my posts have URL instead of /index.php?p=76?How long is the release cycle of WordPress?How do I turn on Permalinks, and what do I do about the errors?What are Roles for and what permissions do different Roles have?Why can\u2019t I delete the uncategorized Category?Why is there no Page Template option when writing or editing a Page?How do I determine a Post, Page, Category, Tag, or User ID?": "",
+      "Can my posts have URL instead of /index.php?p=76?": "",
+      "How long is the release cycle of WordPress?": "",
+      "How do I turn on Permalinks, and what do I do about the errors?": "",
+      "What are Roles for and what permissions do different Roles have?": "",
+      "Why can\u2019t I delete the uncategorized Category?": "",
+      "Why is there no Page Template option when writing or editing a Page?": "",
+      "How do I determine a Post, Page, Category, Tag, or User ID?": "",
+      "ConfigurationHow can I change how the date and / or time is displayed?How can I control comments people make?What do the Discussion Options mean?How do I install plugins?Why are all the comments being moderated?How do I disable comments?How do I disable trackbacks and pingbacks?How do I change the site admin name?How do I find the absolute path I need for uploading images?Which files do I change to alter the way my blog looks?How do I upload images?Can I change the \u201cError establishing database connection\u201d message to something more descriptive?": "",
+      "How can I change how the date and / or time is displayed?": "",
+      "How can I control comments people make?": "",
+      "What do the Discussion Options mean?": "",
+      "How do I install plugins?": "",
+      "Why are all the comments being moderated?": "",
+      "How do I disable comments?": "",
+      "How do I disable trackbacks and pingbacks?": "",
+      "How do I change the site admin name?": "",
+      "How do I find the absolute path I need for uploading images?": "",
+      "Which files do I change to alter the way my blog looks?": "",
+      "How do I upload images?": "",
+      "Can I change the \u201cError establishing database connection\u201d message to something more descriptive?": "",
+      "ModifyingCan I change the Smilies?How do I edit files?What is The Loop?How can I change the URL-structure for my posts?How can I change URL-structure for my posts on a Windows server?How do I use WordPress Template Tags to change what is displayed on the blog?How do I get All links to open in a new window?How can I add an image to my RSS feed?If I turn off comments, it says \u201cComments Off\u201d on the weblog. so how do I remove that?How do I change what is shown when I password protect a post?How can I allow certain HTML tags in my comments?How can I add advanced search ability to WordPress?": "",
+      "Can I change the Smilies?": "",
+      "How do I edit files?": "",
+      "What is The Loop?": "",
+      "How can I change the URL-structure for my posts?": "",
+      "How can I change URL-structure for my posts on a Windows server?": "",
+      "How do I use WordPress Template Tags to change what is displayed on the blog?": "",
+      "How do I get All links to open in a new window?": "",
+      "How can I add an image to my RSS feed?": "",
+      "If I turn off comments, it says \u201cComments Off\u201d on the weblog. so how do I remove that?": "",
+      "How do I change what is shown when I password protect a post?": "",
+      "How can I allow certain HTML tags in my comments?": "",
+      "How can I add advanced search ability to WordPress?": "",
+      "PostsHow do I upload an image and display it in a post?What is pingback?What is trackback?Where is the permalink to my post?Can I use desktop blogging software?Can I blog by email?": "",
+      "How do I upload an image and display it in a post?": "",
+      "What is pingback?": "",
+      "What is trackback?": "",
+      "Where is the permalink to my post?": "",
+      "Can I use desktop blogging software?": "",
+      "Can I blog by email?": "",
+      "Spam, Spammers, CommentsWhat can I do to stop comment spam?More Information on Comment Spam": "",
+      "What can I do to stop comment spam?": "",
+      "More Information on Comment Spam": "",
+      "Importing and ExportingHow do I Import a WordPress WXR file when it says it is too large to import?How do I import links (blogroll) from another WordPress blog?": "",
+      "How do I Import a WordPress WXR file when it says it is too large to import?": "",
+      "How do I import links (blogroll) from another WordPress blog?": "",
+      "I have done the 5-minute installation. Now what?Log InStart at the top": "",
+      "Log In": "",
+      "Start at the top": "",
+      "Test drive your WordPress siteTake a Quick Trip Around": "",
+      "Take a Quick Trip Around": "",
+      "Test Drive the WordPress Administration ScreensLet\u2019s start with the User screenChanging the LookCreating a postCommentsCreate Categories": "",
+      "Let\u2019s start with the User screen": "",
+      "Changing the Look": "",
+      "Creating a post": "",
+      "Comments": "",
+      "Create Categories": "",
+      "Setting Up Your SitePut Posts in CategoriesWhat Is Next": "",
+      "Put Posts in Categories": "",
+      "What Is Next": "",
+      "Using WordPress ThemesCreating your own Theme": "",
+      "Creating your own Theme": "",
+      "Using WordPress PluginsCreating your own Plugin": "",
+      "Creating your own Plugin": "",
+      "Above and Beyond the Basics": ""
+    }
+  },
+  "Administration": {
+    "Description": "See:",
+    "Submodules": {
+      "Can my posts have URL instead of /index.php?p=76?": " Using Permalinks",
+      "How long is the release cycle of WordPress?": " A major release of WordPress happens every 6 months or so. Suggest and vote on ideas for future releases atthe WordPress Extend Ideas site. Also referWordPress Versionsfor the chronologically listed versions of WordPress along with the Change Log information on new features and improvements in each version. There are the future releases and links to their respective milestones in the bug tracker.",
+      "How do I turn on Permalinks, and what do I do about the errors?": " See: Using Permalinks",
+      "What are Roles for and what permissions do different Roles have?": " See: Roles and Capabilities",
+      "Why can\u2019t I delete the uncategorized Category?": " Deleting a category does not delete the posts in that category. Instead, posts that were only assigned to the deleted category are set to theuncategorizedcategory. Also,allPagesare assigned theuncategorizedCategory. Theuncategorizedcategory cannot be deleted, however you can specify your default categories for posts on theSettings\u2013Writingscreen of theAdministration Screens.",
+      "Why is there no Page Template option when writing or editing a Page?": " If there is no Page Template option when writing or editing aPageit may because there is notemplate filewith the proper structure. For the Page Template box to be available to assign to aPagethere must be a least one template file in your theme that has a structure at the beginning of the template file that looks like this: Create a new PHP file with any name under the theme directory and put above codes into the file. You will see the Page Template box appears that includes \u201cMy Custom Page\u201d option in the Page Edit Screen. For more detail about Custom Page Template, referPage Templates.",
+      "How do I determine a Post, Page, Category, Tag, or User ID?": " Sometimes it is necessary to know the ID of a particular Post, Page, Category, Tag, or User. To determine that ID, use one of these method: Look in your browser status bar for the ID:Visit the related list table screen in your Administration Screen. For instance in the case of Posts visit Posts->All Posts, for Pages visit Pages->All Pages, and for Categories visit Posts->Categories.Now hover your mouse over the \u2018item\u2019 you need the ID. In the case of Pages, hover over that particular Page\u2019s title in the Title column and for Categories hover over the Categories Name in the Name column.Look at the status bar (at the bottom of your browser) and the you will find at the end of the line something like \u201cpost=123\u201d or \u201ctag_ID=67\u201d. In these cases, 123 is the Page ID, and 67 is the Category ID. Visit the related list table screen in your Administration Screen. For instance in the case of Posts visit Posts->All Posts, for Pages visit Pages->All Pages, and for Categories visit Posts->Categories. Now hover your mouse over the \u2018item\u2019 you need the ID. In the case of Pages, hover over that particular Page\u2019s title in the Title column and for Categories hover over the Categories Name in the Name column. Look at the status bar (at the bottom of your browser) and the you will find at the end of the line something like \u201cpost=123\u201d or \u201ctag_ID=67\u201d. In these cases, 123 is the Page ID, and 67 is the Category ID."
+    }
+  },
+  "Configuration": {
+    "Description": "See:",
+    "Submodules": {
+      "How can I change how the date and / or time is displayed?": " Formatting Date and Time",
+      "How can I control comments people make?": " See: Comment Moderation",
+      "What do the Discussion Options mean?": " See: Discussion Screen",
+      "How do I install plugins?": " See: Managing Plugins",
+      "Why are all the comments being moderated?": " Go to theSettings>Discussionscreen and make sure thatComment must be manually approvedis unchecked. With that option selected, all comments are sent to the moderation queue to await approval.Make sure thatHold a comment in the queue if it contains x or more links.is not blank and contains a number higher than zero. If this value is blank or zero, all comments containing links will be moderated.If the option mentioned above is unchecked, the link moderation value is higher than zero, and you still have this problem, then upgrade the comment spam plugins you have installed. If this continues to be a problem, deactivate the comment spam plugins one by one to determine the culprit and contact the plugin author for help.",
+      "How do I disable comments?": " First, uncheckAllow people to post comments on new articleson theSettings>Discussionscreen. This will only disable comments onfuture posts.Next, to completely disable comments, you will have to edit each past post and uncheckAllow Commentsfrom theEdit Postscreen. Use Bulk Edit to disable multiple posts at once. In thePosts_Screen, check the checkbox in the Table\u2019s title to select all Posts in a given table. From Bulk Actions box, select Edit and click Apply. In the Bulk Edit Screen, select Do not allow option from Comments box Click Update. Alternatively, you could run below MySQL query from the command line on a shell account or usingphpMyAdmin, or through awp-cliwp db query: If your goal is to permanently remove comments, then follow the next steps. This is the example ofTwenty Fifteentheme customization. Create aChild ThemesofTwenty Fifteentheme. Copytwentyfifteen_entry_meta()function from parent\u2019sinc/template-tags.phpto child theme\u2019sfunctions.php. Comment out the if block that containscomments-link. It removes the number of comments or \u201cLeave a comment\u201d message from bottom of each post. Newly createcomments.phpunder the Child Theme\u2019s directory without any contents. It removes the comment area of exsiting posts. Activate the Child Teheme.",
+      "How do I disable trackbacks and pingbacks?": " First, uncheckAllow link notifications from other blogs (pingbacks and trackbacks) on new articleson theSettings>Discussionscreen. This will only disable trackbacks and pingbacks onfuture posts.Next, to completely disable trackbacks and pingbacks, you will have to edit each past post and uncheckAllow trackbacks and pingbacks on this pagefrom theEdit Postscreen. Use Bulk Edit to disable multiple posts at once. See also above image. In thePosts_Screen, check the checkbox in the Table\u2019s title to select all Posts in a given table. From Bulk Actions box, select Edit and click Apply. In the Bulk Edit Screen, select Do not allow option from Pings box. Click Update. Alternatively, you could run this MySQL query from the command line on a shell account or usingphpMyAdmin, or through awp-cliwp db query:",
+      "How do I change the site admin name?": " To change your Admin Name, in theAdministration Screens, choose theUsers->Your Profilemenu. Make your changes there. However, you are not able to change the username from within the Administration screen. In order to do this you must directly edit the MySQL database, however this is not recommended as your username is not often seen by other users. See: Users Your Profile Screen",
+      "How do I find the absolute path I need for uploading images?": " Open the below page from your Browser Referupload_url_pathoption value.If the value is blank, then the directorywp-content/uploadis the default destination to save.",
+      "Which files do I change to alter the way my blog looks?": " See: Theme Development Handbook",
+      "How do I upload images?": " See: Inserting Media into Posts and Pages",
+      "Can I change the \u201cError establishing database connection\u201d message to something more descriptive?": " Just simply create a file to reside atwp-content/db-error.php, and in that file put the message you want displayed to users when WordPress determines the database connection is not available. That file will be used in place of \u201cError establishing database connection\u201d message. You could even use thedb-error.phpto redirect users elsewhere. Here\u2019s an example fordb-error.php:"
+    }
+  },
+  "Modifying": {
+    "Description": "See:",
+    "Submodules": {
+      "Can I change the Smilies?": " Using Smilies",
+      "How do I edit files?": " See: Editing Files",
+      "What is The Loop?": " See: The LoopandThe Loop in Action",
+      "How can I change the URL-structure for my posts?": " See: Using Permalinks",
+      "How can I change URL-structure for my posts on a Windows server?": " See: Using Permalinks Without mod rewrite",
+      "How do I use WordPress Template Tags to change what is displayed on the blog?": " See: Template Tags",
+      "How do I get All links to open in a new window?": " Put this inside the  section of your Theme\u2019stemplate header.phpfile: See: Using Themes W3 Schools base tag explanation",
+      "How can I add an image to my RSS feed?": " See: Add an image to your RSS 2.0 feed at wordlog.com",
+      "If I turn off comments, it says \u201cComments Off\u201d on the weblog. so how do I remove that?": " Depending on your theme, some other message of similar intent may be displayed. The specifics of how to remove this message is theme dependent. You should be able to find the offending text in your theme\u2019scomments.phpfile. If it\u2019s displayed by a PHP function, comment out the function with slash-asterisks \u2018/*\u2018 and \u2018*/\u2018(without quotes)on either end of the function: If it\u2019s simply HTML, comment out the enclosing HTML tags by adding \u2018&lt;!--\u2018 and \u2018--&gt;\u2018(not including the quotes, note the space after the first and before the last comment symbols): If you decide later to restore the message, you can simply remove the comment symbols.",
+      "How do I change what is shown when I password protect a post?": " Hook the filters \u2018the_title\u2018 and \u2018the_password_form\u2018. Your filter function is passed exactly what the filter names imply. Use thestr_replace()function to search out the offending text and replace it with your preference (or nothing).Note the \u2018the_title\u2018 filter fires for every single title, not just password protected posts, so you need to use the existence of thepost_passwordproperty to know whether to apply the string replace function or not.Some themes may also have additional locations where content needs to be canged. Next example works withTwenty FifteenTheme.",
+      "How can I allow certain HTML tags in my comments?": " Use a custom filter in your themesfunctions.phpor plugin:",
+      "How can I add advanced search ability to WordPress?": " See: Advanced Contextual Search for WordPress at Weblog Tools Collection"
+    }
+  },
+  "Posts": {
+    "Description": "See:",
+    "Submodules": {
+      "How do I upload an image and display it in a post?": " Inserting Media into Posts and Pages",
+      "What is pingback?": " See: Introduction to Blogging, Pingbacks",
+      "What is trackback?": " See: Introduction to Blogging, Trackbacks",
+      "Where is the permalink to my post?": " See: Linking Posts, Pages, and Categories",
+      "Can I use desktop blogging software?": " See: Weblog Client",
+      "Can I blog by email?": " See: Post to your blog using email"
+    }
+  },
+  "Spam, Spammers, Comments": {
+    "Description": "See:",
+    "Submodules": {
+      "What can I do to stop comment spam?": " Combating Comment Spam",
+      "More Information on Comment Spam": " See: Comment Spam"
+    }
+  },
+  "Importing and Exporting": {
+    "Description": "If a WordPress WXR file, an XML file exported from WordPress, is too large to import, there are several things you might try to overcome that limit.",
+    "Submodules": {
+      "How do I Import a WordPress WXR file when it says it is too large to import?": " Editphp.ini\u2018. Some hosts may not allow this settings. memory_limit: Maximum amount of memory in bytes that a PHP script is allowed to allocate. Note:memory_limit should be larger than post_max_size, and post_max_size must be larger than upload_max_filesize. Edit.htaccess. Some hosts may not allow this settings. Editwp-config.php See alsoIncreasing memory allocated to PHP. In multisite environment, configure following settingsFrom Network Admin dashboard, select Settings > Network Settings and increase the values of \u2018Site upload space\u2019 and \u2018Max upload file size\u2019.From Network Admin dashboard, select Sites > All Sites and click Edit menu under your site. Click Settings tab and incease the value of \u2018Site Upload Space Quota\u2019 or leave it blank for network default From Network Admin dashboard, select Settings > Network Settings and increase the values of \u2018Site upload space\u2019 and \u2018Max upload file size\u2019. From Network Admin dashboard, select Sites > All Sites and click Edit menu under your site. Click Settings tab and incease the value of \u2018Site Upload Space Quota\u2019 or leave it blank for network default GZip the file. On some hosting services, a gzipped file can be automatically expanded in the background, without WordPress ever knowing the difference. This can allow you to make the file small enough to be fit into the maximum upload size constraints.On Windows, use 7Zip to create a gz archive out of the WXR file.On Linux, use the gzip command line.Make sure that the resulting file has the file extension of \u201c.gz\u201d before uploading it, as this is often necessary.This is not guaranteed to work, as it highly depends on the hosting configuration. If this fails, then try another method instead. On Windows, use 7Zip to create a gz archive out of the WXR file. On Linux, use the gzip command line. Make sure that the resulting file has the file extension of \u201c.gz\u201d before uploading it, as this is often necessary. This is not guaranteed to work, as it highly depends on the hosting configuration. If this fails, then try another method instead. Break the WordPress WXR file into smaller pieces by separating the data between posts and pasting the header/footer into each file. 1. Always have the header 2. Always have the footer 3. In between, add the posts start with end with and check to see whether the XML file you\u2019re creating is less than or equal to 2MB. You\u2019ll get the hang of it. 4. As always, before importing the new XML\u2019s, backup the database of the blog you are importing the XML files to and might as well export XML file of that blog as well for good measure. See: Importing ContentEditing wp-config.phpForum discussion on program that helps with splitting the file into pieces Editing wp-config.php Forum discussion on program that helps with splitting the file into pieces WXR Splitter Utilities: WordPress WXR File Splitter utility for Windows WordPress WXR File Splitter utility for Mac OS X",
+      "How do I import links (blogroll) from another WordPress blog?": " See: Importing Content Codex FAQ"
+    }
+  },
+  "Was this article helpful? How could it be improved?Cancel reply": {
+    "Description": "Log in to submit feedback. If you need support with something that wasn't covered by this article, please post your question in thesupport forums.",
+    "Submodules": {}
+  },
+  "First steps with WordPress (Block Editor)": {
+    "Description": "",
+    "Submodules": {}
+  },
+  "I have done the 5-minute installation. Now what?": {
+    "Description": "You\u2019ve just completed the5-Minute Installationof WordPress or the one-click install from your web host. So what is your next step?",
+    "Submodules": {
+      "Log In": " Begin by logging into the administration area, or theback end, of your website. Visit your site\u2019s login page by placingwp-adminafter your domain name (e.g., http://example.com/wp-admin). Somethemesprovide a login link or form on thefront endas well. Now login to WordPress using the username and password you created in the 5-minute install.",
+      "Start at the top": " After logging in you are on the mainAdministration Screencalled theDashboard.  This is where the organization of your site begins. At the top of the screen is the area called thetoolbar. Click on your site name; it\u2019s a link and it will take you to a view of your new WordPress site. Like it? Don\u2019t like it? Doesn\u2019t matter, just look at it. This is where you are going to be spending a lot of time!"
+    }
+  },
+  "Test drive your WordPress site": {
+    "Description": "Take time to look at the site before you get into changing it and figuring outhow it all works; it\u2019s important to see how the WordPress Twenty Twenty-Two theme is laid out and how it works. Consider this the test drive before you start adding all the special features.",
+    "Submodules": {
+      "Take a Quick Trip Around": " For now, you only have one post. It is residing within a page that is laid out as yourhome pageor the front page. If you click on the title of the post, it will take you to the specific page for that post. The first page or home page of your site features the most recent posts on your site. Each post title will link to the actual page of the post. Some Theme designers design theirsinglepost pages to look different from the home page. In the single post, pay attention to the layout and notice what is different about the design elements. Is the header different? Smaller, larger, or a different color? Is there a sidebar? All of these changes are created from a few files calledtemplate files. You can learn more about how they work inTheme Developer Handbook. For now, however, let\u2019s get on with how the rest of WordPress works."
+    }
+  },
+  "Test Drive the WordPress Administration Screens": {
+    "Description": "Now that you have an idea of how your site looks and what the different layout sections are called, it\u2019s time to test drive theWordPress Administration. This is like familiarizing yourself with the backend of your new website. In fact, the first page you see after logging in is called theDashboard, a collection of information and data about the activities and actions on your WordPress site.",
+    "Submodules": {
+      "Dashboard": "",
+      "Posts": "",
+      "Media": "",
+      "Pages": "",
+      "Comments": " Part of the fun of WordPress is the ability to have viewers leave comments on your site. It creates a dynamic interchange between you and the viewer. Do you want comments on your posts? Comments on posts come in a variety of forms, frompats on the back(Good job! Like the post!) to extensive conversations and commentary about the posts. Or maybe you are seeking comments that add to the information you\u2019ve posted. Responding to comments andmoderating themcan also take up a lot of time. If they are critical to your site, then include them and consider how you want them presented.  You can make a few comments yourself on the post you created. Take a look at how they are laid out and consider how you might want them to look to fit into the design and layout of your site. When you have reached your decision about how you want to handle comments, take time to read through thearticle on comments and WordPress discussion optionsto help you set those features. There is more to think about when it comes to having comments on your site. Unfortunately, we live in a world wherespamis a fact of life. It is recommended that you begin battling the comment spammers with the helpful article,Introduction to Dealing with Comment Spam.",
+      "Appearance": "",
+      "Plugins": "",
+      "Users": "",
+      "Tools": "",
+      "Settings": "",
+      "Let\u2019s start with the User screen": " Click on theUserstab. The screen will change and you will see the Screen calledAll Usersthat shows a list of all your users; from here you can add or change existing users and authors\u2019 accounts. In the navigation menu, click on the Your Profile menu choice. This is where you will enter information about yourself, the author, and theadministratorof the site. Fill in the information and clickUpdate Profilewhen done. Now, let\u2019s look at some other powerful features of the WordPress Admin.",
+      "Changing the Look": " TheAppearance, Themes Screenallows you to change the look of your site using differentThemes. Themes are presentation styles that completely change the look of your site. Designed by developers and users, there are hundreds of themes available for you to choose from. In your Appearance Screen, you will see a list of currently installed themes, including the WordPress Twenty Twenty-Two theme. To quickly change the theme, simply click on the Activate button under one of the themes listed, then click on your site name in the toptoolbarto see how it looks. Wow, you have another look. It\u2019s that easy. Go back toAppearance > Themeand click the Activate button under the WordPress Twenty Twenty-Two theme to bring the design back to what you had. To see it again, click your site name in the toolbar, and there it is.",
+      "Creating a post": " Back in theAdministration Screen, take a look at thePosts Screen. You can use the tabs under the Posts Menu towrite and manage your posts. Let\u2019s start by making your first test post in theAdd Newtab. The first time you use the Block Editor, you will see a short tutorial. Add the title of the article in the space allocated. Then write a text in the \u201cStart writing or type / to choose a block\u201d section. This is just for a test, so you can write anything you want. When you are done, click on thePublishbutton at the top right of the page, then click a second time to confirm the publication. Now that you\u2019ve gotten a feel for writing posts, you can view your posts by clicking your site name in thetoolbarat top of the screen.",
+      "Create Categories": " Posts are usually stored in Categories and/or Tags so you can keep related topics together. Right now you only have one category, but you will soon want more. In thePosts > Categoriestab, in theAdd New Categoryarea, fill in the information about your category. Continue to add yourparentcategories, going down the list. Hold off on entering subcategories until all the main categories are entered. NOTE:You can add any new category at any time, but make a note of the fact that categories can be sorted in WordPress in two ways: by name (alphabetically) or by ID number. As you enter the categories, they are assigned an ID number. It is difficult to change this, so if you don\u2019t want your categories sorted alphabetically, enter them in the order you want to see them presented on the screen."
+    }
+  },
+  "Setting Up Your Site": {
+    "Description": "Before you get to the graphic look of your site, let\u2019s do a little more administration to your site to set it up. You may want to install plugins to supercharge your website, and don\u2019t forget to activate theAkismet WordPress Pluginthat is available with all WordPress sites to help protect it from comment spam. When you have the parent categories entered, enter your subcategories. In the pull-down menu for Parent Category, you can select theparentto the subcategory you are adding. When you view your categories in the Manage > Categories Screen, you will see the categories listed like this:",
+    "Submodules": {
+      "Computer TipsWindowsLinuxMac": "",
+      "Windows": "",
+      "Linux": "",
+      "Internet News": "",
+      "Web Page DesignWeb Standards": "",
+      "Web Standards": "",
+      "WordPressPluginsThemes": "",
+      "Plugins": "",
+      "Themes": "",
+      "Put Posts in Categories": " Let\u2019s put some of your test posts into categories so you can see how this works. From thePosts > Category Screen, click on the tab forAll Posts. You should see the test posts you entered here. When you hover your mouse over each post title, under the title, you should see the Edit | Quick Edit | Trash | View links. Click on Edit to edit one of the posts. On the right side of the Edit Post screen, you will now see your Categories. Choose one of them by clicking on the box next to it. Then in the Publish module above, click theUpdatebutton. Repeat this for your other test posts, putting each one in a different category. Now view your page by clicking on your site name in thetoolbarat the top of yourAdministration Screen. Do you see the categories listed in the sidebar now? Great. If you are missing a category, that usually means that there are no posts in it. This is the default function of WordPress, so not to worry. When you add a post to the \u201cmissing\u201d category, it will appear on your web pages. Click on one of the categories and you will be taken to a page for just that category. You should see the posts that went into that category. This is a generatedCategorypage. Now, click on theArchivesfor the month showing. Now you are visiting a generated page of your posts listed in chronological order for this month \u2013 well, specifically for today only. Two methods of finding the same information.",
+      "What Is Next": " You\u2019ve now done all the basics for your new WordPress website. You know how to write a post, create a category, and how to view your site\u2019s information by category and archive. You can start the customization process, and when you are done, don\u2019t forget to delete your test posts! Then start writing some wonderful information to share with your new-found public!"
+    }
+  },
+  "Using WordPress Themes": {
+    "Description": "There are hundreds ofWordPress Themesto choose from. All do basically the same thing but graphically present the information in a myriad of ways. Choose a few that look interesting to you, and meet your audience\u2019s needs and your desires, and then test drive them following the test drive instructions above. Click through the whole site, the categories and archives as well as the individual posts to see how the Theme handles each one. The look may be nice on the front page, but if it handles things in a way you don\u2019t like on the single post, then you will have to dig into the code and make changes. Not ready for that, try another theme.",
+    "Submodules": {
+      "WordPress Theme Directory": "",
+      "Using Theme": "",
+      "Creating your own Theme": " If you are familiar with CSS, HTML, and even PHP and MySQL, consider either customizing the Theme to your own needs or creating your own Theme. WordPress Theme Developer Handbook"
+    }
+  },
+  "Using WordPress Plugins": {
+    "Description": "WordPress Pluginsare also known as add-ons or extensions. They are software scripts that add functions and events to your website. They cover the gamut from up-to-date weather reports to a simple organization of your posts and categories. Plugins are designed by volunteer contributors and enthusiasts who like challenges and problem-solving. They are usually fairlysimple to installthrough the WordPress Admin Plugin Screen, just follow the instructions provided by the plugin author. Remember, these are free and non-essential. If you have any problems with plugins, contact the plugin author\u2019s website or plugin source first, then search the Internet for help with that specific plugin, and if you haven\u2019t found a solution, then visit the WordPress forums for more help.",
+    "Submodules": {
+      "WordPress Plugin Directory": "",
+      "Managing Plugins": "",
+      "Creating your own Plugin": " If you are familiar with PHP, HTML, and maybe even MySQL, you may be able to customize WordPress to work the way you want by creating your own Plugin. WordPress Plugin Developer Handbook"
+    }
+  },
+  "Above and Beyond the Basics": {
+    "Description": "The exciting thing about WordPress is that there are few limits. Thousands of people are using WordPress for blogging and for running their websites. For example, look at some of the entries under theWordPress.org Theme Showcase. All have a different look and different functions on their sites. What you do from here is up to you, but here are a few places to take that first step beyond the basics:",
+    "Submodules": {
+      "WordPress Features": "",
+      "Working with WordPress": "",
+      "WordPress Semantics": "",
+      "Using Pages": "",
+      "Troubleshooting": "",
+      "Using Permalinks": "",
+      "Getting More Help": "",
+      "Using the Support Forums": "",
+      "WordPress Code Reference": "",
+      "Learn WordPress": "",
+      "Updated 2025-06-28Added Alt texts.": "",
+      "Added Alt texts.": "",
+      "Updated 2024-04-23Update screenshots for 6.5": "",
+      "Update screenshots for 6.5": "",
+      "Updated 2022-06-19Updated screenshots to WordPress 6.0Changes all references from Twenty Twenty-One theme to Twenty Twenty-Two": "",
+      "Updated screenshots to WordPress 6.0": "",
+      "Changes all references from Twenty Twenty-One theme to Twenty Twenty-Two": "",
+      "Updated 2022-03-09Updated screenshots to WordPress 5.9": "",
+      "Updated screenshots to WordPress 5.9": "",
+      "Updated 2021-01-01Added ChangelogUpdated all screenshots to WordPress 5.6Added links to WordPress Code Reference and Learn WordPressChanges all references from Twenty Nineteen theme to Twenty Twenty-OneRe-worked language about widgets and removed language about sidebar to align with Twenty Twenty-One theme.Updated Getting More Help linkAdded info about Block Editor tutorialCleaned up some grammar": "",
+      "Added Changelog": "",
+      "Updated all screenshots to WordPress 5.6": "",
+      "Added links to WordPress Code Reference and Learn WordPress": "",
+      "Changes all references from Twenty Nineteen theme to Twenty Twenty-One": "",
+      "Re-worked language about widgets and removed language about sidebar to align with Twenty Twenty-One theme.": "",
+      "Updated Getting More Help link": "",
+      "Added info about Block Editor tutorial": "",
+      "Cleaned up some grammar": ""
+    }
+  }
+}
