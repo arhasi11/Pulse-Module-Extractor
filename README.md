@@ -92,8 +92,3 @@ This tool has been verified with the following documentation sites:
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for any features, bug fixes, or enhancements.
-
-
-```
-
-```
