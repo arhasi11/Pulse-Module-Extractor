@@ -1,7 +1,4 @@
-### `README.md`
-
-```markdown
-# Pulse - Module Extraction AI Agent 🚀
+### Pulse - Module Extraction AI Agent 🚀
 
 **Pulse** is an intelligent, AI-powered tool designed to crawl technical documentation websites and extract a structured hierarchy of **Modules** and **Submodules**. By leveraging Large Language Models (LLMs) via Groq or OpenAI, it generates detailed descriptions for every component, converting unstructured web pages into clean, organized JSON data.
 
