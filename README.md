@@ -88,10 +88,6 @@ This tool has been verified with the following documentation sites:
 * ✅ **Python Docs:** `https://docs.python.org/3/`
 * ✅ **Chargebee:** `https://www.chargebee.com/docs/2.0/`
 
-## ⚠️ Limitations
-
-* **JavaScript-Heavy Sites:** The current crawler uses `requests` (static scraping). Sites that rely entirely on JavaScript for rendering (like Single Page Applications) may require further integration with Selenium or Playwright.
-* **Token Limits:** Extremely large documentation sets are processed in chunks to fit within the LLM's context window.
 
 ## 🤝 Contributing
 
